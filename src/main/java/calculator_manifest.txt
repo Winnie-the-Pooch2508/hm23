@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Package: hm23.jar
+Main-Class: hm23.jar.Calculator
+Created-By: Artem_Dehtiarenko
